@@ -22,3 +22,5 @@ It reads a vocabulary file containing valid 5-letter words, randomly selects a s
 $ make
 $ ./wordle_lib_test.c 
 - For GUI: run python wordle_gui.py in command prompt
+
+<img width="428" height="569" alt="Image" src="https://github.com/user-attachments/assets/46d68909-8422-4e00-a167-57e5c99f5b82" />
